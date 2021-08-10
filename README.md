@@ -1,2 +1,2 @@
 # CMemory
-A library for patching memory, finding memory addresses by patterns, etc.
+A C++ library for patching memory, finding memory addresses by patterns, etc.
